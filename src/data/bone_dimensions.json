@@ -1,0 +1,118 @@
+{
+  "mmii_ilio.png": {
+    "width": 690,
+    "height": 805
+  },
+  "mmii_isquio.png": {
+    "width": 990,
+    "height": 855
+  },
+  "mmii_pubis.png": {
+    "width": 940,
+    "height": 865
+  },
+  "mmii_femur_anterior.png": {
+    "width": 730,
+    "height": 925
+  },
+  "mmii_femur_posterior.png": {
+    "width": 730,
+    "height": 925
+  },
+  "mmii_patela.png": {
+    "width": 1520,
+    "height": 915
+  },
+  "mmii_tibia.png": {
+    "width": 890,
+    "height": 915
+  },
+  "mmii_fibula.png": {
+    "width": 590,
+    "height": 915
+  },
+  "mmii_pe.png": {
+    "width": 1070,
+    "height": 925
+  },
+  "cranio_sutura_coronal.png": {
+    "width": 1370,
+    "height": 875
+  },
+  "cranio_sutura_sagital.png": {
+    "width": 1340,
+    "height": 875
+  },
+  "cranio_perfil.png": {
+    "width": 900,
+    "height": 925
+  },
+  "cranio_frontal.png": {
+    "width": 850,
+    "height": 925
+  },
+  "cranio_palatino.png": {
+    "width": 1440,
+    "height": 885
+  },
+  "torax_costelas.png": {
+    "width": 1810,
+    "height": 875
+  },
+  "torax_esterno.png": {
+    "width": 660,
+    "height": 694
+  },
+  "coluna_vertebral.png": {
+    "width": 1120,
+    "height": 925
+  },
+  "vertebra_axis.png": {
+    "width": 1710,
+    "height": 734
+  },
+  "vertebra_cervical.png": {
+    "width": 1740,
+    "height": 705
+  },
+  "vertebra_toracica.png": {
+    "width": 1730,
+    "height": 785
+  },
+  "vertebra_lombar.png": {
+    "width": 1790,
+    "height": 784
+  },
+  "mmss_escapula.png": {
+    "width": 1790,
+    "height": 895
+  },
+  "mmss_clavicula.png": {
+    "width": 1820,
+    "height": 643
+  },
+  "mmss_umero.png": {
+    "width": 1030,
+    "height": 925
+  },
+  "mmss_cotovelo.png": {
+    "width": 1500,
+    "height": 925
+  },
+  "mmss_ulna.png": {
+    "width": 810,
+    "height": 905
+  },
+  "mmss_radio.png": {
+    "width": 490,
+    "height": 905
+  },
+  "mmss_carpo.png": {
+    "width": 1580,
+    "height": 905
+  },
+  "mmss_mao.png": {
+    "width": 1510,
+    "height": 925
+  }
+}
