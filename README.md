@@ -2,7 +2,7 @@
 
 ### Tornando o estudo de anatomia mais visual, interativo e acessível.
 
-O **StudyFlow Anatomy** é um MVP funcional de uma aplicação educacional voltada ao estudo da anatomia humana, com imagens anatômicas e atividades interativas para a identificação de estruturas ósseas.
+O **StudyFlow Anatomy** é um MVP funcional de uma aplicação educacional, desenvolvida no Google AI Studio, voltada ao estudo da anatomia humana, com imagens anatômicas e atividades interativas para a identificação de estruturas ósseas.
 
 ## 💡 Como surgiu a ideia?
 
